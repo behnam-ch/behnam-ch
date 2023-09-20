@@ -23,8 +23,8 @@ Feel free to explore my repositories to see some of my latest projects and exper
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/behnam-chaghajerdi-940131233)
-- Twitter: [@YourTwitterHandle](https://twitter.com/behnam_ch20)
+- [LinkedIn](https://www.linkedin.com/in/behnam-chaghajerdi-940131233)
+- [Twitter](https://twitter.com/behnam_ch20)
 - Email: [behnam.chaghajerdi@gmail.com](mailto:behnam.chaghajerdi@gmail.com)
 
 Let's connect, collaborate, and build amazing things together! 😄🚀
