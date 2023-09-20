@@ -8,7 +8,6 @@ Hey there! 👨‍💻 I'm Behnam, a passionate Flutter developer who loves the 
 ![Flutter](https://img.shields.io/badge/Flutter-Dart-blue)
 ![Android](https://img.shields.io/badge/Android-Java-green)
 ![Unity](https://img.shields.io/badge/Unity-C%E2%8C%97-black)
-![AR](https://img.shields.io/badge/AR%20Development-Experienced-red)
 
 ## What I Do
 
